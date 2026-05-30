@@ -18,6 +18,7 @@
    - [Information Systems, Digital Economy & Data Science](#information-systems-digital-economy--data-science)
 7. [Quick Reference Deadline Calendar](#7-quick-reference-deadline-calendar)
 8. [General Tips for US Applicants](#8-general-tips-for-us-applicants)
+9. [May & June 2026 Deadlines — Act Now](#9-may--june-2026-deadlines--act-now)
 
 ---
 
@@ -996,6 +997,351 @@ France offers strong scholarship programs and is home to world-class institution
 | Italy (Rome/Bologna) | €900–€1,300 |
 | France (Paris) | €1,300–€1,800 |
 | France (regional cities) | €900–€1,300 |
+
+---
+
+## 9. May & June 2026 Deadlines — Act Now
+
+This section focuses exclusively on scholarships with **deadlines in May or June 2026**, organized chronologically. These are particularly important because most major European scholarship cycles (Fulbright, DAAD, ETH, etc.) close in October–January — these are the rare programs that offer a summer application window. Many of these are less well-known and therefore less competitive.
+
+> **Status key as of May 30, 2026:**
+> - 🔴 **CLOSED** — deadline has passed
+> - 🟡 **IMMINENT** — closes within 48 hours
+> - 🟢 **OPEN** — still accepting applications
+
+> **Important note on funding years:** Applying during May–June 2026 funds your studies in the **2026–2027 academic year** (Fall 2026 start). Multi-year programs also cover **2027–2028**.
+
+---
+
+### Sorted by Deadline
+
+---
+
+#### 🔴 May 15, 2026 — Study a Master's in Europe Scholarship *(Closed)*
+
+| | |
+|---|---|
+| **Official URL** | https://ee.onlinestudies.com/scholarships/study-a-masters-in-europe-15211 |
+| **Value** | €5,000 (one award) |
+| **Country** | Any European country (all 5 target countries covered) |
+| **Funds** | Academic Year **2026–2027** |
+| **Open to US students** | ✅ Yes |
+
+**What it is:** Offered by Keystone Academic Solutions (which runs educations.com, lawstudies.com, onlinestudies.com and similar portals), this is a single €5,000 award given each year to one international student studying a master's abroad in Europe. It is a **less well-known** opportunity because it comes from a private education platform rather than a government or university foundation.
+
+**Eligibility:**
+- Any nationality studying abroad in a European country where you are NOT a citizen and do NOT currently reside
+- Enrolled in a master's degree starting Fall 2026
+- Hold a valid bachelor's degree and meet language requirements for your program
+
+**Application Requirements:**
+- Short written application/essay explaining your study abroad plans and why you should win
+- No academic transcripts or references required — it is primarily a personal statement competition
+
+**Notes:** The 2026 window is closed (May 15), but this scholarship recurs annually. The 2027 window is expected to open May 15, 2027. Monitor https://www.educations.com/scholarships for the next cycle.
+
+---
+
+#### 🔴 May 19, 2026 — DAAD SECAI Scholarship, Round 1 *(Closed — Round 2 open June 30)*
+
+*See entry below for full details.*
+
+---
+
+#### 🔴 May 26, 2026 — University of Siena International Excellence Scholarships *(Closed)*
+
+| | |
+|---|---|
+| **Official URL** | https://admission.unisi.it/?p=2283 |
+| **Apply Via** | https://apply.unisi.it |
+| **Value** | €6,000/year, renewable for Year 2 — **total up to €12,000** |
+| **Awards** | 5 (one per disciplinary area) |
+| **Country** | Italy |
+| **Funds** | Academic Years **2026–2027** and **2027–2028** (if renewed) |
+| **Open to US students** | ✅ Yes (non-Italian citizens residing outside Italy) |
+
+**What it is:** A lesser-known scholarship from the University of Siena (one of Italy's oldest universities, founded 1240) for international master's students in specific English-taught programs. There is **one award per disciplinary area**, making it less competitive than large national programs.
+
+**Eligible Programs for US students interested in this guide's fields:**
+- **Economics and Law area:** MSc Economics, MSc Finance, MSc International Accounting and Management
+- **Political Sciences area:** MSc Public and Cultural Diplomacy, MSc International Relations, MSc Scienze Internazionali (European Studies curriculum)
+- **Math & Experimental Sciences area:** MSc Applied Mathematics, MSc Artificial Intelligence and Automation Engineering, MSc Engineering Management (2 awards)
+
+**Eligibility:**
+- Non-Italian citizenship
+- Bachelor's degree earned outside Italy
+- Not residing in Italy at time of application
+- Apply for admission to an eligible program through apply.unisi.it
+
+**Required Documents:**
+- Standard admission documents (transcripts, CV, degree certificate, language proof)
+- **One-minute self-made motivational video** (uploaded via portal — informal but essential)
+- €10 non-refundable application fee
+
+**Notes for US students:** The Siena scholarship is an excellent **lower-profile target** for US students interested in Italian political science or economics programs. The University of Siena is a respected public research university with low tuition (~€1,000–€2,000/year for self-funded students), making the scholarship's €6,000 award particularly impactful. The 2026 window is closed; watch for the **2027 call opening around March–April 2027**.
+
+---
+
+#### 🔴 May 30, 2026 — EGEI Erasmus Mundus Self-Funded Applications *(Closed — today)*
+
+| | |
+|---|---|
+| **Official URL** | https://www.master-egei.eu/how-to-apply/ |
+| **Apply Via** | https://form.jotform.com/242864314938364 |
+| **Value** | Self-funded enrollment (scholarship deadline was Feb 28; 6 tuition waivers available for that round) |
+| **Country** | Italy, Belgium, Spain, France (multi-country joint degree) |
+| **Funds** | Academic Years **2026–2027** and **2027–2028** (2-year program) |
+| **Open to US students** | ✅ Yes |
+
+**What it is:** The **Erasmus Mundus Joint Master in Economics of Globalisation and European Integration (EGEI)** is a prestigious 2-year, 120 ECTS program combining international economics, European institutions, globalisation theory, and quantitative methods. Partner universities include Ghent University (Belgium), University of Bari (Italy), University of Cantabria (Spain), Université de Lille (France), and others. Taught in **English**.
+
+**Scholarship vs. self-funded:**
+- The Erasmus Mundus scholarship round (6 tuition waivers) closed February 28, 2026
+- Self-funded enrollment without visa: **May 30, 2026** (today — this deadline is essentially closed)
+- The **2027 intake** will open scholarship applications around **October 2026**
+
+**Eligibility:**
+- Bachelor's degree in economics, applied economics, or related discipline (with solid quantitative background)
+- At least one full semester of economics credits including microeconomics, macroeconomics, econometrics or quantitative methods
+- Political science / international relations backgrounds may qualify if sufficient economics credits demonstrated
+
+**Programs / Majors:**
+- Economics and Business of Globalisation
+- Globalisation and Emerging Market Economies
+- International Economic Policy
+- Economic and Financial Issues in the EU
+
+**Notes:** EGEI is an **excellent lesser-known option** for US students with economics or IR backgrounds who want a multi-country European master's experience. Apply for the **2027 intake with scholarship** starting October 2026 — that is the right timing for a US student planning ahead.
+
+---
+
+#### 🟡 May 31, 2026 — Heidelberg Alumni U.S. (HAUS) Study Scholarship *(Imminent — closes tomorrow)*
+
+| | |
+|---|---|
+| **Official URL** | https://www.hua.uni-heidelberg.de/en/scholarships/haus-study-scholarship |
+| **Value** | **$7,000** (master's students) for one semester, potentially renewable for a second |
+| **Country** | Germany (Heidelberg University specifically) |
+| **Funds** | Academic Year **2026–2027** (one semester, extendable) |
+| **Open to US students** | ✅ Yes — **designed exclusively for US students** |
+
+**What it is:** The **HAUS Scholarship** is a rare, US-specific award from the Heidelberg Alumni U.S. organization supporting American students who want to study at Heidelberg University, Germany's oldest university (founded 1386). This is one of the **least well-known scholarships** in this guide and has essentially no competition from non-US applicants.
+
+**Eligibility:**
+- Enrolled at — or graduated from — a US institution of higher education
+- US residency
+- Strong academic credentials
+- Accepted as a student at Heidelberg University (proof can be submitted after applying)
+
+**Heidelberg Master's Programs of Relevance:**
+- MA Economics
+- MA Political Science
+- MA International Relations
+- MA European Studies
+- MA American Studies (unique comparative dimension)
+- MSc Mathematics / Computer Science
+
+**Required Documents:**
+- Application form
+- Academic transcripts
+- CV
+- Personal statement / motivation letter
+- Proof of Heidelberg acceptance (can follow later)
+
+**Notes:** Heidelberg is a world-class research university with strong economics, political science, and European studies programs. Because this award is limited to US applicants and comes from an alumni association rather than a national program, it is **significantly less competitive** than DAAD or Fulbright. Apply before midnight on **May 31, 2026**. The next cycle opens early 2027.
+
+---
+
+#### 🟡 May 18–31, 2026 — TUM Deutschlandstipendium *(Imminent — closes tomorrow)*
+
+| | |
+|---|---|
+| **Official URL** | https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium/application |
+| **Value** | €300/month for 12 months (€3,600/year) |
+| **Awards** | ~800 per year at TUM |
+| **Country** | Germany (Technical University of Munich) |
+| **Funds** | Academic Year **2026–2027** |
+| **Open to US students** | ✅ Yes (must be enrolled or admitted to TUM) |
+
+**What it is:** The **Deutschlandstipendium** (Germany Scholarship) is a national program co-funded by private sponsors and the German Federal Government. At TUM, it supports ~800 students per year — an unusually high number, making it one of the **most accessible** scholarships in Germany. Every €150 from a private sponsor is matched by €150 from the government.
+
+**Eligibility:**
+- Enrolled at TUM (or have applied to start in Winter 2026)
+- Bachelor's or master's level
+- Must be a resident in Germany and have a German bank account
+
+**Required Documents:**
+- Online application form
+- Academic transcripts
+- CV
+- Motivation letter (about your academic goals, extracurricular record, and plans)
+
+**LMU Munich Deutschlandstipendium Note:** LMU's window for 2026 closed April 5, 2026. Watch for the **2027 window opening in March 2027** at: https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/deutschlandstipendium/
+
+**Notes:** While €300/month is modest, it is stackable with other grants (including DAAD). The TUM window closes **May 31, 2026**.
+
+---
+
+#### 🟢 June 1, 2026 — IMMIT (International Master in Management of IT) *(Open)*
+
+| | |
+|---|---|
+| **Official URL** | https://immit-master.eu/ |
+| **Apply Via** | IAE Aix-Marseille portal — https://iae-aix.univ-amu.fr/en/ |
+| **Tuition (non-EU)** | €13,715/year (Erasmus mobility grants offset Year 2 costs — ~€450–540/month for semesters 2–3) |
+| **Country** | France (Year 1) → Finland (Year 2, Sem 1) → Netherlands (Year 2, Sem 2) |
+| **Funds** | Academic Years **2026–2027** and **2027–2028** (full 2-year program) |
+| **Application Deadline** | **June 1, 2026** (late applications accepted until **June 14, 2026**) |
+| **Open to US students** | ✅ Yes |
+
+**What it is:** **IMMIT** is a unique 3-country, 2-year master's program combining information systems, IT management, business, and analytics. It is run by:
+1. **IAE Aix-Marseille** (France) — Semester 1
+2. **University of Turku** (Finland) — Semester 2 (no tuition fees for Finnish universities)
+3. **Tilburg University** (Netherlands) — Semester 3
+
+You earn a **triple degree** recognized in France, Finland, and the Netherlands.
+
+**Eligibility:**
+- Bachelor's degree (180 ECTS equivalent) in Management, Economics, Business Administration, Computer Science, or Information Systems
+- Engineering graduates with IT background also considered
+- English proficiency required (IELTS/TOEFL)
+
+**Required Documents:**
+1. Passport copy
+2. Certified bachelor's degree certificate + course descriptions
+3. GMAT/GRE test (optional but helpful — indicate planned test date if not complete)
+4. English proficiency certificate
+5. Statement of purpose
+6. CV
+
+**Financial Aid Available:**
+- **Erasmus Mobility Grant**: All students (EU and non-EU) receive ~€450–540/month during semesters at Turku (Finland) and Tilburg (Netherlands)
+- Additional scholarships available via Tilburg University's portal (check for excellence awards)
+- Some Dutch DUO student finance accessible for eligible students
+
+**Notes for US students:** IMMIT is one of the **most directly relevant programs for Information Systems / IT management** in this guide. It prepares students as "hybrid managers" — combining IT systems knowledge with business strategy. The June 1 deadline (with grace period to June 14) is unusually late for a European master's program, making it accessible to students who missed earlier application windows.
+
+---
+
+#### 🟢 May 25 – June 25, 2026 — ISU Bocconi Scholarship (International Applicants) *(Open)*
+
+| | |
+|---|---|
+| **Official URL** | https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/isu-bocconi-scholarship-deadlines-and-procedures-ay-2026-27 |
+| **Apply Via** | Bocconi online portal |
+| **Value** | Need-based cash grant (amount varies by financial situation) + possible housing and services |
+| **Country** | Italy (Bocconi University, Milan) |
+| **Funds** | Academic Year **2026–2027** (must reapply each year) |
+| **Deadline** | International MSc applicants: **May 25 – June 25, 2026** |
+| **Open to US students** | ✅ Yes |
+
+**What it is:** The **ISU Bocconi Scholarship** is Bocconi's **need-based financial aid** program — separate from the merit-based Merit Awards (which are auto-assessed with admission). It is funded through Italy's "Right to University Education" program and provides cash grants, housing support, and additional services based on declared family income.
+
+**Eligibility:**
+- Enrolled in a Bocconi MSc program for 2026–2027
+- All nationalities including US
+- Financial need (based on ISEE declaration or equivalent for international students)
+- Minimum academic progress requirements apply for renewal in Year 2
+
+**Application:**
+- Online form available on the Bocconi portal: **May 25 – June 25, 2026** (window strictly enforced)
+- Must provide financial documentation (family income, assets, household)
+- International students submit equivalent of ISEE documentation with translations
+
+**Notes:** This is one of the **least publicized** funding options at Bocconi. Most applicants focus only on the merit awards; the need-based ISU scholarship can provide significant additional support on top of any merit award received. US students whose families have modest incomes may qualify for meaningful assistance.
+
+---
+
+#### 🟢 June 30, 2026 — DAAD SECAI Scholarship, Round 2 *(Open)*
+
+| | |
+|---|---|
+| **Official URL** | https://secai.org/students/scholarships/ |
+| **Email Application** | secai-office@tu-dresden.de (via TU Dresden SecureMail Portal: https://securemail.tu-dresden.de) |
+| **Value** | €934/month + possible family allowance |
+| **Duration** | Remaining duration of master's degree (up to 24 months for a 2-year program) |
+| **Awards** | ~20 per year |
+| **Country** | Germany (TU Dresden or Leipzig University) |
+| **Funds** | Academic Years **2026–2027** and **2027–2028** (if 2-year program) |
+| **Open to US students** | ✅ Yes — all countries eligible |
+
+**What it is:** The **SECAI Scholarship** is a **DAAD-funded** program from the Zuse School of Embedded Composite Artificial Intelligence (SECAI) — a joint initiative between TU Dresden and the University of Leipzig. It supports master's students in AI and broadly AI-related fields. This is one of the **most overlooked summer scholarships** in Germany: the June 30 deadline falls when most US students are unaware of German scholarship cycles.
+
+**Eligible Programs at TU Dresden:**
+- M.Sc. Computer Science
+- M.Sc. Computational Modeling and Simulation (tracks: Applied Artificial Intelligence, Computational Life Science)
+- M.Sc. Nanoelectronic Systems
+- M.Sc. Data Science (Leipzig)
+- M.Sc. Bioinformatics (Leipzig)
+- M.Sc. Medical Informatics (Leipzig)
+- LL.M. with focus on legal aspects of AI
+- M.A. programs focusing on human/societal dimensions of AI
+- M.Sc. Psychology with focus on socio-technical systems / human-machine interaction
+
+**Eligibility:**
+- Current or prospective master's student at TU Dresden or Leipzig University
+- Study program content closely related to SECAI research areas (AI, broadly conceived)
+- GPA equivalent to German grade **1.7 or better** (roughly equivalent to US 3.5+ on 4.0 scale)
+- Not receiving another scholarship simultaneously
+
+**Required Application Materials (email to secai-office@tu-dresden.de):**
+1. Declaration of other sources of income/funding
+2. Bachelor's certificate and transcript of records
+3. **Motivation letter** — must explicitly address your connection to SECAI and AI in your planned or current studies at TU Dresden or Leipzig
+4. CV
+5. Any additional certificates relevant to your field
+
+**Application rounds:**
+- Round 1 (earlier decision): May 19, 2026 — CLOSED
+- Round 2 (final): **June 30, 2026** — OPEN NOW
+
+**Notes:** You can apply for the SECAI scholarship **simultaneously** with applying for master's program admission (via Uni-Assist for both TU Dresden and Leipzig). Applying in Round 1 (May 19) gives you an earlier decision; missing that, Round 2 (June 30) is still available. This is a genuinely underutilized scholarship for US students interested in AI, data science, or computational fields at two of Germany's leading technical research universities.
+
+---
+
+### Not Available to US Citizens (noted for completeness)
+
+The following May/June scholarships were found in research but **exclude US citizens** due to citizenship restrictions:
+
+| Scholarship | Deadline | Reason US students are ineligible |
+|------------|----------|-----------------------------------|
+| Friedrich Ebert Foundation (FES) | May 31, 2026 | Explicitly excludes OECD countries, including USA |
+| University of Milan European Futures Scholarship | June 15, 2026 | EU residents/citizens only (excluding Italy) |
+| CUAS TECH Scholarship (Austria) | May 15, 2026 | Europe, South America, Mexico nationals only |
+
+> **Note on CUAS for US students:** While the TECH Scholarship is closed to US students, US students at American universities interested in Carinthia University of Applied Sciences can apply for the **Marshall Plan Scholarship** for a research stay. Contact international@cuas.at in October or March (the two annual call windows).
+
+---
+
+### May/June Summary Table — Open to US Students
+
+| Deadline | Status | Scholarship | Country | Value | Funds | Link |
+|----------|--------|------------|---------|-------|-------|------|
+| May 15, 2026 | 🔴 Closed | Study a Master's in Europe Scholarship | Any Europe | €5,000 (1 award) | 2026–2027 | https://ee.onlinestudies.com/scholarships/study-a-masters-in-europe-15211 |
+| May 19, 2026 | 🔴 Closed | DAAD SECAI – Round 1 | Germany | €934/month | 2026–2028 | https://secai.org/students/scholarships/ |
+| May 26, 2026 | 🔴 Closed | Siena International Excellence Scholarship | Italy | €6,000/yr (up to €12,000) | 2026–2028 | https://admission.unisi.it/?p=2283 |
+| May 30, 2026 | 🔴 Closed | EGEI Erasmus Mundus (self-funded) | Italy/Belgium/Spain/France | Self-funded enrollment | 2026–2028 | https://www.master-egei.eu/how-to-apply/ |
+| May 31, 2026 | 🟡 Imminent | **HAUS Heidelberg Study Scholarship** | Germany | $7,000 | 2026–2027 | https://www.hua.uni-heidelberg.de/en/scholarships/haus-study-scholarship |
+| May 18–31, 2026 | 🟡 Imminent | **TUM Deutschlandstipendium** | Germany | €300/month | 2026–2027 | https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium/application |
+| June 1, 2026 | 🟢 Open | **IMMIT (IT Management, 3 countries)** | France/Finland/Netherlands | Erasmus grants ~€500/mo (Yrs 2–3 sems) | 2026–2028 | https://immit-master.eu/ |
+| May 25–June 25, 2026 | 🟢 Open | **ISU Bocconi Need-Based Scholarship** | Italy | Need-based cash + housing | 2026–2027 | https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/isu-bocconi-scholarship-deadlines-and-procedures-ay-2026-27 |
+| June 30, 2026 | 🟢 Open | **DAAD SECAI Scholarship – Round 2** | Germany | €934/month | 2026–2028 | https://secai.org/students/scholarships/ |
+
+---
+
+### What to Apply to Right Now (May 30, 2026)
+
+Given that today is **May 30, 2026**, here are the scholarships with live application windows:
+
+1. **HAUS Heidelberg** — closes tomorrow, May 31. If you are planning to study at Heidelberg, submit today. US students only, very low competition. → https://www.hua.uni-heidelberg.de/en/scholarships/haus-study-scholarship
+
+2. **TUM Deutschlandstipendium** — closes May 31. If you are enrolled or applying to TUM, submit your application today. → https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/deutschlandstipendium/application
+
+3. **IMMIT (IT Management)** — closes June 1 (grace period June 14). Best option for Information Systems / IT Management students. Start application now at IAE Aix-Marseille portal. → https://immit-master.eu/application/
+
+4. **ISU Bocconi Need-Based Scholarship** — open through June 25. If you have been admitted to a Bocconi MSc, file your need-based application immediately. → https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding/isu-bocconi-scholarship-deadlines-and-procedures-ay-2026-27
+
+5. **DAAD SECAI Round 2** — closes June 30. Best option for AI, data science, and computer science students targeting TU Dresden or Leipzig. Email your application to secai-office@tu-dresden.de. → https://secai.org/students/scholarships/
 
 ---
 
